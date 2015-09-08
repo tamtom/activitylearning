@@ -18,6 +18,7 @@ public class Seconed extends AppCompatActivity {
             int re = extras.getInt("resutl");
             String res = re+"";
             tv.setText(res);
+            System.out.println();
 
         }
     }
