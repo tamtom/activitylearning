@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RandomFmily</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name ="getBtn">Go to next </string>
+    <string name ="checl">the seconed active</string>
+    <string name="title_activity_seconed">Seconed</string>
+</resources>
